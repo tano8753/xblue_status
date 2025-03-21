@@ -3,7 +3,9 @@
 Hello guys,
 
 This project is a python application to display system's status on Retropie.
+
 It's based on [gbz_overlay](https://github.com/d-rez/gbz_overlay) script by [d-rez](https://github.com/d-rez).
+
 I understand that the code is already running well But still want to do something fit with my needs.
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -16,7 +18,7 @@ The app can show the status:
 Notice: The icon will only update once the status changes.
 
 You can set the setting for the app on the config.json file.
-
+```json
 {
     "icon_size": 24, => If you change this value, You need create a new folder with the name is the size under images folder.
     "margin_top": 5,
@@ -28,7 +30,7 @@ You can set the setting for the app on the config.json file.
         "bluetooth"
     ]
 }
-
+```
 ---------------------------------------------------------------------------------------------------------------------------------
 
 # How to setup
