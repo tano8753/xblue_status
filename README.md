@@ -3,7 +3,9 @@
 Hello guys,
 
 This project is a python application to display system's status on Retropie.
+
 It's based on [gbz_overlay](https://github.com/d-rez/gbz_overlay) script by [d-rez](https://github.com/d-rez).
+
 I understand that the code is already running well But still want to do something fit with my needs.
 
 # Photo
