@@ -8,6 +8,10 @@ It's based on [gbz_overlay](https://github.com/d-rez/gbz_overlay) script by [d-r
 
 I understand that the code is already running well But still want to do something fit with my needs.
 
+Full build DIY Handheld:
+- Part 1: https://www.youtube.com/watch?v=jNqbHZRZVUk
+- Part 2: https://www.youtube.com/watch?v=y0wlGPaanzg
+
 # Photo
 ![Photo](photo.png)
 
