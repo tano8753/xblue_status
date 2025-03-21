@@ -1,0 +1,11 @@
+{
+    "icon_size": 24,
+    "margin_top": 5,
+    "margin_right": 5,
+    "space_between": 5,
+	"delay_start": 0,
+    "devices": [
+        "wifi",
+        "bluetooth"
+    ]
+}
